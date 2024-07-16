@@ -1,0 +1,7 @@
+nom = input("Ingrese Nombre y Apellido del 1° Integrante: ")
+nomb = input("Ingrese Nombre y Apellido del 2° Integrante: ")
+print("=========================================")
+print("Listado de Nombres de Integrantes: ")
+print(nom)
+print(nomb)
+print("=========================================")
